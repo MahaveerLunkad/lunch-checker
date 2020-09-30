@@ -1,2 +1,2 @@
-# lunch-checker
-my first project
+# Angular-js
+My first Application using angular js framework
